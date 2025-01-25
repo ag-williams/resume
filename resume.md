@@ -20,6 +20,7 @@ Club, Mines Running Club
 ## Other Work and Volunteer Experience
 ### **TA Glassblowing -- Jan 2024 - PRESENT**
 ### **Colorado Environmental Film Festival -- July 2024 - PRESENT**
+- Watch films :)
 ### **Oredigger Camp Counselor -- July 2024 (3 Days)
 ### **South Platte Park -– Dec 2021 – Aug 2023**
 
