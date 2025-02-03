@@ -2,7 +2,7 @@
 - Email: agwilliams@mines.edu
 - Location: Golden, CO
 
-[Image](https://media.licdn.com/dms/image/v2/D5603AQG31gh6sbuIIg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1713407468113?e=1744243200&v=beta&t=XDNQhJJTcnx4rbt46QiK2b5sYhm1hjR_d8NG_Swotqs)
+![Image](https://media.licdn.com/dms/image/v2/D5603AQG31gh6sbuIIg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1713407468113?e=1744243200&v=beta&t=XDNQhJJTcnx4rbt46QiK2b5sYhm1hjR_d8NG_Swotqs)
 
 ## Education
 **BSc. Geophysic, Colorado School of Mines (2027)**
@@ -18,7 +18,7 @@ Club, Mines Running Club
 #### May 2024 - Oct 2024
 - Collected information on Western USA hydroelectric dams projected to experience drought.
 - Analyzed Clear Creek tubing data for the City of Golden.
-## FIRST Fellowship
+### FIRST Fellowship
 #### Nov 2023 - JUNE 2024
 - Investigated plastic flow within the global economy and collected data on Caribbean waste statistics.
 
@@ -29,7 +29,7 @@ Club, Mines Running Club
 ### **Colorado Environmental Film Festival -- July 2024 - PRESENT**
 - Evaluating films for selection at the CEFF
 - Supervising the composting at the Festival
-### **Oredigger Camp Counselor -- July 2024 (3 Days)
+### **Oredigger Camp Counselor -- July 2024 (3 Days)**
 - Lead incoming students through fun activities to help forge new connections
 ### **South Platte Park -– Dec 2021 – Aug 2023**
 - Engaged visitors in the nature center with ecological and historical information about the park.
